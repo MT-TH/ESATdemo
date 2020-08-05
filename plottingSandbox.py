@@ -10,6 +10,7 @@ import numpy as np
 import numpy as np
 import matplotlib.pyplot as plt
 
+# plotting
 plt.style.use('dark_background')
 
 plt.axis([0, 50, 0, 100])
